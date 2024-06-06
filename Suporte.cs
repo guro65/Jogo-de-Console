@@ -1,0 +1,3 @@
+string nome;
+int idade;
+

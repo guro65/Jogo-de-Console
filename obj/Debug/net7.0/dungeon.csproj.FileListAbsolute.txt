@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\dungeon\bin\Debug\net7.0\dungeon.exe
+C:\Users\aluno\Desktop\dungeon\bin\Debug\net7.0\dungeon.deps.json
+C:\Users\aluno\Desktop\dungeon\bin\Debug\net7.0\dungeon.runtimeconfig.json
+C:\Users\aluno\Desktop\dungeon\bin\Debug\net7.0\dungeon.dll
+C:\Users\aluno\Desktop\dungeon\bin\Debug\net7.0\dungeon.pdb
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\dungeon.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\dungeon.AssemblyInfo.cs
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\dungeon.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\dungeon.dll
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\refint\dungeon.dll
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\dungeon.pdb
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\dungeon.genruntimeconfig.cache
+C:\Users\aluno\Desktop\dungeon\obj\Debug\net7.0\ref\dungeon.dll
