@@ -14,7 +14,7 @@ do
     string nome = "";
 
     Console.Clear();
-    Console.WriteLine("##### BEM-VINDO À DUNGEON #####");
+    Console.WriteLine("##### BEM-VINDO À DUNGEONS #####");
     Console.WriteLine("Aperte um numero para escolher seu personagem");
     Console.WriteLine("1- Guerreiro | 2- Mago | 3- Suporte | 4- Sair");
     opcao = Console.ReadLine();

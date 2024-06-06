@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFBrBxrdtmzFEdezq0poEDziO4COamVn8YkmhUh7ikKGMUI/47YlzMDoKxnQllOU+oscd/VT5LK7djIElvD1VQ==",
+  "dgSpecHash": "W52rZPOmA0UENuDAL5LDsjGOGnUD6x6Mgh+QdxcvtdbB2M2WqzfF/2dF51ABYmNCZikE4OTaXrbcq6C9NDEWDg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\aluno\\Desktop\\guro\\dungeon\\dungeon.csproj",
+  "projectFilePath": "c:\\tmp\\Bruh\\guro\\dungeon\\dungeon.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

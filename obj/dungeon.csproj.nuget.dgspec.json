@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aluno\\Desktop\\guro\\dungeon\\dungeon.csproj": {}
+    "c:\\tmp\\Bruh\\guro\\dungeon\\dungeon.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aluno\\Desktop\\guro\\dungeon\\dungeon.csproj": {
+    "c:\\tmp\\Bruh\\guro\\dungeon\\dungeon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aluno\\Desktop\\guro\\dungeon\\dungeon.csproj",
+        "projectUniqueName": "c:\\tmp\\Bruh\\guro\\dungeon\\dungeon.csproj",
         "projectName": "dungeon",
-        "projectPath": "c:\\Users\\aluno\\Desktop\\guro\\dungeon\\dungeon.csproj",
+        "projectPath": "c:\\tmp\\Bruh\\guro\\dungeon\\dungeon.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aluno\\Desktop\\guro\\dungeon\\obj\\",
+        "outputPath": "c:\\tmp\\Bruh\\guro\\dungeon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
